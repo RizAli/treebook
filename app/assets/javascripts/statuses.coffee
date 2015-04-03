@@ -4,4 +4,4 @@
 
 $ ->
   $('.status').hover (event) ->
-  $(this).toggleCalass("hover")
+    $(this).toggleCalass("hover")
